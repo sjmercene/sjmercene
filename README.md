@@ -5,6 +5,9 @@
 - <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
   - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
 
+- <b>TryHackMe Lab – VNC Exploitation & Traffic Analysis</b>
+  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+
 <h2> 📜 Certifications</h2>
 <h2>📺 Popular YouTube Videos</h2>
 
