@@ -6,7 +6,7 @@
   - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
 
 - <b>TryHackMe Lab </b>
-  - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/sjmercene/blob/main/TryHackMe%20Lab%20%E2%80%93%20VNC%20Exploitation%20%26%20Traffic%20Analysis)
+  - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/TryHackMe-Lab-VNC-Exploitation-Traffic-Analysis/blob/main/README.md)
 
 <h2> 📜 Certifications</h2>
 - <b>Dimploma in Information Technology<b>
