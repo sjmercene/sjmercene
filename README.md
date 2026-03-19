@@ -8,11 +8,10 @@
 - <b>TryHackMe Lab </b>
   - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/TryHackMe-Lab-VNC-Exploitation-Traffic-Analysis/blob/main/README.md)
 
-<h2> 📜 Certifications</h2>
-- <b>Dimploma in Information Technology<b>
-- <Certificate 3 in Cybersecurity<
-- Sal 1
-  
+## 📜 Certifications
+- Diploma in Information Technology  
+- Certificate III in Cybersecurity  
+
 <h2>📺 Popular YouTube Videos</h2>
 
 - [Tutorial Active Directory Home Lab](https://www.youtube.com/watch?v=a83ASGn_V_s)
