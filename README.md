@@ -28,7 +28,7 @@
 [twitter]: 
 [youtube]: 
 [instagram]: 
-[linkedin]: 
+[linkedin]: (https://www.linkedin.com/in/sanlin-mercene-7b7967183/) 
 
 - 🔭 I’m currently working on SAL 1 Certification
 - 🌱 I’m currently learning Tryhackme Labs
