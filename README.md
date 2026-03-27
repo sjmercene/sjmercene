@@ -7,7 +7,7 @@
 
 - <b>TryHackMe Lab </b>
   - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/TryHackMe-Lab-VNC-Exploitation-Traffic-Analysis/blob/main/README.md)
-  - [DNS Spoofing & MITM Detection (Wirehsark) 
+  - [DNS Spoofing & MITM Detection (Wirehsark)](https://github.com/sjmercene/DNS-Spoofing-MITM-Detection-Wireshark-/blob/main/README.md) 
 
 ## 📜 Certifications
 - Diploma in Information Technology  
