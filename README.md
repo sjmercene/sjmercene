@@ -11,7 +11,11 @@
 
 ## 📜 Certifications
 - Diploma in Information Technology  
-- Certificate III in Cybersecurity  
+- Certificate III in Cybersecurity
+
+## 🏗️ Additional Background
+- Diploma in Civil Construction Design (Developed problem-solving and project planning skills)
+- Certificate IV in Entrepreneurship and New Business (Business operations and client management)
 
 <h2>📺 Popular YouTube Videos</h2>
 
@@ -20,15 +24,14 @@
 
 ## 🤳 Connect with me:
 
-
 <p>
-  <a href="https://www.youtube.com/channel/UCvFs4OXsmAxYTZf6WRzD0ZA">
+  <a href="https://www.youtube.com/channel/UCvFs4OXsmAxYTZf6WRzD0ZA" style="text-decoration:none;">
     <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
   </a>
-  <a href="https://www.linkedin.com/in/sanlin-mercene-7b7967183/">
+  <a href="https://www.linkedin.com/in/sanlin-mercene-7b7967183/" style="text-decoration:none;">
     <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
   </a>
-  <a href="https://www.instagram.com/steppz96">
+  <a href="https://www.instagram.com/steppz96" style="text-decoration:none;">
     <img width="30px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
   </a>
 </p>
