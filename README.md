@@ -1,7 +1,9 @@
 <h1>Hi, I'm Sj! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-  - 🔐 [Active Directory Home Lab (Windows Server 2022 + Windows 10)](https://github.com/sjmercene/ActiveDirectoryLab)
+
+- <b> Security Projects & Investigations </b>
+  - [Active Directory Home Lab (Windows Server 2022 + Windows 10)](https://github.com/sjmercene/ActiveDirectoryLab)
 
 - <b>TryHackMe Lab </b>
   - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/TryHackMe-Lab-VNC-Exploitation-Traffic-Analysis/blob/main/README.md)
