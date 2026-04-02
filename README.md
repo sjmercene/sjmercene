@@ -1,9 +1,7 @@
 <h1>Hi, I'm Sj! 
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
-
-- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
-  - [Active Directory Homelab](https://github.com/joshmadakor1/Algorithms-Practice)
+  - [Active Directory Home Lab (Windows Server 2022 + Windows 10)](https://github.com/sjmercene/ActiveDirectoryLab/blob/main/README.md)
 
 - <b>TryHackMe Lab </b>
   - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/TryHackMe-Lab-VNC-Exploitation-Traffic-Analysis/blob/main/README.md)
