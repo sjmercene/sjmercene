@@ -2,12 +2,15 @@
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
-- <b> Security Projects & Investigations </b>
+- <b> IT Projects </b>
+  - [osTicket Help Desk (End-to-End Deployment & Troubleshooting (IIS, PHP, MySQL))](https://github.com/sjmercene/osTicket-Help-Desk-Lab/blob/main/README.md) 
   - [Active Directory Home Lab (Windows Server 2022 + Windows 10)](https://github.com/sjmercene/ActiveDirectoryLab)
+  
 
-- <b>TryHackMe Lab </b>
+- <b> Security Projects </b>
   - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/TryHackMe-Lab-VNC-Exploitation-Traffic-Analysis/blob/main/README.md)
-  - [DNS Spoofing & MITM Detection (Wirehsark)](https://github.com/sjmercene/DNS-Spoofing-MITM-Detection-Wireshark-/blob/main/README.md) 
+  - [DNS Spoofing & MITM Detection (Wirehsark)](https://github.com/sjmercene/DNS-Spoofing-MITM-Detection-Wireshark-/blob/main/README.md)
+ 
 
 ## 📜 Certifications
 - Diploma in Information Technology  
