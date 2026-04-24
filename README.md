@@ -14,7 +14,7 @@
 
 ## 📜 Certifications
 - Diploma in Information Technology  
-- Certificate III in Cybersecurity
+- Certificate IV in Cybersecurity
 
 ## 🏗️ Additional Background
 - Diploma in Civil Construction Design (Developed problem-solving and project planning skills)
