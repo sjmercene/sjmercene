@@ -3,7 +3,8 @@
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
 - <b> IT Projects </b>
-  - [osTicket Help Desk (End-to-End Deployment & Troubleshooting (IIS, PHP, MySQL))](https://github.com/sjmercene/osTicket-Help-Desk-Lab/blob/main/README.md) 
+  - [osTicket Help Desk (End-to-End Deployment & Troubleshooting (IIS, PHP, MySQL))](https://github.com/sjmercene/osTicket-Help-Desk-Lab/blob/main/README.md)
+  - [osTicket Post-Installation Configuration & Help Desk Simulation](https://github.com/sjmercene/osTicket-Post-Installation-Configuration-Ticket-Workflow-Escalation-Simulation-/blob/main/README.md) 
   - [Active Directory Home Lab (Windows Server 2022 + Windows 10)](https://github.com/sjmercene/ActiveDirectoryLab)
   
 
