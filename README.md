@@ -16,6 +16,7 @@
 ## 📜 Certifications
 - Diploma in Information Technology  
 - Certificate IV in Cybersecurity
+- SAL 1
 
 ## 🏗️ Additional Background
 - Diploma in Civil Construction Design (Developed problem-solving and project planning skills)
@@ -40,6 +41,6 @@
   </a>
 </p>
 
-- 🎓 I'm currently working on SAL 1 Certification  
-- 🌱 I'm currently learning TryHackMe Labs  
+- 🎓 I'm currently working...
+- 🌱 I'm currently learning TryHackMe Labs & Help desk Labs 
 - 📫 How to reach me: m.sanlin@hotmail.com
