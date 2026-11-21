@@ -1,14 +1,18 @@
 <h1>Hi, I'm Sj! 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 IT Projects & Technical Labs:</h2>
+- I'm an aspiring IT professional currently studying Bachelors of Information Technology in Univeristy of Technology Sydney(UTS), with a strong interest in IT support, systems administration, networking and cybersecurity. This GitHub showcases my hands-on projects, technical troubleshooting experience and ongoing development of practical IT skills.
 
-- <b> IT Projects </b>
+- <b> Home Lab & IT Infrastructure </b>
+  - 
+
+- <b> IT Support & Help Desk Projects </b>
   - [osTicket Help Desk (End-to-End Deployment & Troubleshooting (IIS, PHP, MySQL))](https://github.com/sjmercene/osTicket-Help-Desk-Lab/blob/main/README.md)
   - [osTicket Post-Installation Configuration & Help Desk Simulation](https://github.com/sjmercene/osTicket-Post-Installation-Configuration-Ticket-Workflow-Escalation-Simulation-/blob/main/README.md) 
   - [Active Directory Home Lab (Windows Server 2022 + Windows 10)](https://github.com/sjmercene/ActiveDirectoryLab)
   
 
-- <b> Security Projects </b>
+- <b> Cybersecurity Labs </b>
   - [VNC Exploitation & Traffic Analysis](https://github.com/sjmercene/TryHackMe-Lab-VNC-Exploitation-Traffic-Analysis/blob/main/README.md)
   - [DNS Spoofing & MITM Detection (Wirehsark)](https://github.com/sjmercene/DNS-Spoofing-MITM-Detection-Wireshark-/blob/main/README.md)
  
