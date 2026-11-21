@@ -1,7 +1,12 @@
 <h1>Hi, I'm Sj! 
 
 <h2>👨‍💻 IT Projects & Technical Labs:</h2>
-- I'm an aspiring IT professional currently studying Bachelors of Information Technology in Univeristy of Technology Sydney(UTS), with a strong interest in IT support, systems administration, networking and cybersecurity. This GitHub showcases my hands-on projects, technical troubleshooting experience and ongoing development of practical IT skills.
+
+I'm currently pursuing a Bachelor of Information Technology at the University of Technology Sydney (UTS), with a keen interest in IT support, networking, systems administration and cybersecurity.
+
+I enjoy getting hands-on with technology, building my own home lab, exploring new systems and figuring out solutions when things don't go as planned.
+
+This GitHub is where I share my projects, what I've learned and the challenges I've tackled along the way.
 
 - <b> Home Lab & IT Infrastructure </b>
   - 
@@ -18,6 +23,7 @@
  
 
 ## 📜 Certifications
+- Bachelors of Information Technology (in progress)
 - Diploma in Information Technology  
 - Certificate IV in Cybersecurity
 - SAL 1
