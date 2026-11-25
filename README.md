@@ -4,7 +4,7 @@
 
 I'm currently pursuing a Bachelor of Information Technology at the University of Technology Sydney (UTS), with a keen interest in IT support, networking, systems administration and cybersecurity.
 
-I enjoy getting hands-on with technology, building my own home lab, exploring new systems and figuring out solutions when things don't go as planned.
+I enjoy getting hands-on with technology, building home labs, tinkering with things, exploring new systems and figuring out solutions when things don't go as planned.
 
 This GitHub is where I share my projects, what I've learned and the challenges I've tackled along the way.
 
