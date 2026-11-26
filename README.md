@@ -9,7 +9,7 @@ I enjoy getting hands-on with technology, building home labs, tinkering with thi
 This GitHub is where I share my projects, what I've learned and the challenges I've tackled along the way.
 
 - <b> Home Lab & IT Infrastructure </b>
-  - [Proxmox Setup (Server Buid + Linux)](https://github.com/sjmercene/home-proxmox-server)
+  - [Proxmox Setup (Server Build + Linux)](https://github.com/sjmercene/home-proxmox-server)
 
 - <b> IT Support & Help Desk Projects </b>
   - [osTicket Help Desk (End-to-End Deployment & Troubleshooting (IIS, PHP, MySQL))](https://github.com/sjmercene/osTicket-Help-Desk-Lab/blob/main/README.md)
